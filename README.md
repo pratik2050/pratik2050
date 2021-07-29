@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pratik2050
+- 👋 Hi, I’m Pratik Das
 - 👀 I’m interested in Programming
 - 🌱 I’m currently on my way of learning
 - 📫 How to reach me ...
