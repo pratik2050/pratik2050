@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pratik Das
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Web Development & Programming
 - 🌱 I’m currently on my way of learning
 - 📫 How to reach me ...
 - You can find me on Linkedin as https://www.linkedin.com/in/pratik-das-675b661b5/
