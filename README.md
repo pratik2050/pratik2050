@@ -1,5 +1,4 @@
-<h1> 👋 </h1>
-Hi, I’m Pratik Das
+<h1> 👋 Hi, I’m Pratik Das </h1>
 - 👀 I’m interested in Web Development & Programming
 - 🌱 I’m currently on my way of learning
 - 📫 How to reach me ...
