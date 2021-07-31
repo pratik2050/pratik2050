@@ -1,7 +1,7 @@
 <h1> 👋 Hi, I’m Pratik Das </h1>
-<h4>- 👀 I’m interested in Web Development & Programming </h4><br>
-<h4>- 🌱 I’m currently on my way of learning </h4><br>
-<h4>- 📫 How to reach me ... </h4> <br>
+<h4>- 👀 I’m interested in Web Development & Programming </h4>
+<h4>- 🌱 I’m currently on my way of learning </h4>
+<h4>- 📫 How to reach me ... </h4> 
 - You can find me on Linkedin as https://www.linkedin.com/in/pratik-das-675b661b5/
 
 <!---
