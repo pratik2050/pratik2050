@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m Pratik Das </h1>
+<h1> <center>👋 Hi, I’m Pratik Das </center> </h1>
 <h4>- 👀 I’m interested in Web Development & Programming </h4>
 <h4>- 🌱 I’m currently on my way of learning </h4>
 <h4>- 📫 How to reach me ... </h4> 
